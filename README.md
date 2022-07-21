@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/devendra dhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra dhare" height="30" width="40" /></a>
 <a href="https://instagram.com/devendra_dhare22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendra_dhare22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devendra dhare, devendroid 2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra dhare, devendroid 2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCU8CkuqiYF3iojYnr8Zc4GQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra dhare, devendroid 2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
