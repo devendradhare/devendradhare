@@ -1,7 +1,7 @@
 <h1 align="center">hi! I am Devendra dhare</h1>
 <h3 align="center">software developer</h3>
 
-- 🌱 I’m currently learning **C++, DSA and IOT**
+- 🌱 I’m currently learning ** DSA Through c++, and IOT**
 
 - 👯 I’m looking to collaborate on **DSA with C++**
 
