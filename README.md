@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3PIR6UK](https://bit.ly/3PIR6UK)
 
-- ⚡ Fun fact **i have a lot of patience ->introvert**
+- ⚡ Fun fact **   I have a lot of patience **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
