@@ -16,16 +16,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devendra dhare" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra dhare" height="30" width="40" />
+  <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="devendra dhare" height="30" width="40" />
   </a>
 <a href="https://instagram.com/devendra_dhare22" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendra_dhare22" height="30" width="40" />
+  <img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="devendra_dhare22" height="30" width="40" />
   </a>
-<a href="https://www.youtube.com/c/devendra dhare, devendroid 2" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra dhare, devendroid 2" height="30" width="40" />
+<a href="" onclick="window.open('http://google.com'); window.open('https://www.youtube.com/@CODENDRAM'); target="blank">
+  <img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="devendra dhare, devendroid 2" height="30" width="40" />
   </a>
 <a href="https://discord.gg/https://discord.gg/mWqF92Bd" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mWqF92Bd" height="30" width="40" />
+  <img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="https://discord.gg/mWqF92Bd" height="30" width="40" />
   </a>
 </p>
 
