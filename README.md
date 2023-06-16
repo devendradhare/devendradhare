@@ -1,11 +1,11 @@
 <h1 align="center">hi! I am Devendra dhare</h1>
 <h3 align="center">software developer</h3>
 
-- 🌱 I’m currently learning **C++, DSA and IOT**
+- 🌱 I’m currently learning **full stack web development**
 
 - 👯 I’m looking to collaborate on **DSA with C++**
 
-- 💬 Ask me about **c/c++, vscode,**
+- 💬 Ask me about **c/c++, python, node.js, html, css, js**
 
 - 📫 How to reach me **devendradhare03@gmail.com**
 
