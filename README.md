@@ -1,9 +1,9 @@
 <h1 align="center">hi! I am Devendra dhare</h1>
-<h3 align="center">software developer</h3>
+<h3 align="center">a full stack web developer</h3>
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning **full stack MERN development**
 
-- 👯 I’m looking to collaborate on **DSA with C++**
+- 👯 I’m looking to collaborate on **a web project**
 
 - 💬 Ask me about **c/c++, python, node.js, html, css, js**
 
