@@ -10,6 +10,7 @@
 
 <br clear="both">
 <div align="left">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210">
 
 - 🌱 I’m currently learning **full stack MERN development**
 
